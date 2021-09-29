@@ -1,6 +1,3 @@
-# Three.js Starter
-Courtesy of Bruno Simon of https://threejs-journey.xyz/
-
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
@@ -15,3 +12,4 @@ npm run dev
 # Build for production in the dist/ directory
 npm run build
 ```
+Three.JS project to study about it
